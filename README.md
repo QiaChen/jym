@@ -1,8 +1,8 @@
 # jym
 魔灵召唤交易号搜索
 
-# build
+## build
 go build
 
-# Usage
+## Usage
 ./jym -k "光方"
